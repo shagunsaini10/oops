@@ -1,0 +1,11 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+class Superclass {
+   private String privateMember = "I am a private member of Superclass";
+
+   Superclass() {
+   }
+
+   public String getPrivateMember() {
+      return this.privateMember;
+   }
+}
